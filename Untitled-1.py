@@ -7,3 +7,5 @@ name = input("What Is Your Name? ")
 
 if name == "Balal":
     print ("You Are Balal")
+else:
+    print ("Imposter")
